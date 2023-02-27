@@ -1,6 +1,6 @@
 # ActiveMQ on container 
 
-Base on openjdk:bullseye from [OpenJDK](https://hub.docker.com/_/openjdk) 
+Base on `openjdk:bullseye` from [OpenJDK](https://hub.docker.com/_/openjdk) 
 
 ## Build 
 ```
